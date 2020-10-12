@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "QBgG+p2qcja4f/HShy72UbnEv5SbUIF2A7nxIUuUF3vvKZKJdaWw9TxZjFddGVr23/D/hwCqCbHTDVAgxTLuUQ==",
+  "success": true,
+  "projectFilePath": "G:\\dev\\Named Entity Recognition\\Named Entity Recognition.vbproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hwjeo\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

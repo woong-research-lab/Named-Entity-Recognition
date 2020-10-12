@@ -1,0 +1,12 @@
+G:\dev\Named Entity Recognition\bin\Debug\netcoreapp3.1\Named Entity Recognition.exe
+G:\dev\Named Entity Recognition\bin\Debug\netcoreapp3.1\Named Entity Recognition.deps.json
+G:\dev\Named Entity Recognition\bin\Debug\netcoreapp3.1\Named Entity Recognition.runtimeconfig.json
+G:\dev\Named Entity Recognition\bin\Debug\netcoreapp3.1\Named Entity Recognition.runtimeconfig.dev.json
+G:\dev\Named Entity Recognition\bin\Debug\netcoreapp3.1\Named Entity Recognition.dll
+G:\dev\Named Entity Recognition\bin\Debug\netcoreapp3.1\Named Entity Recognition.pdb
+G:\dev\Named Entity Recognition\obj\Debug\netcoreapp3.1\Named Entity Recognition.vbprojAssemblyReference.cache
+G:\dev\Named Entity Recognition\obj\Debug\netcoreapp3.1\Named Entity Recognition.AssemblyInfoInputs.cache
+G:\dev\Named Entity Recognition\obj\Debug\netcoreapp3.1\Named Entity Recognition.AssemblyInfo.vb
+G:\dev\Named Entity Recognition\obj\Debug\netcoreapp3.1\Named Entity Recognition.dll
+G:\dev\Named Entity Recognition\obj\Debug\netcoreapp3.1\Named Entity Recognition.pdb
+G:\dev\Named Entity Recognition\obj\Debug\netcoreapp3.1\Named Entity Recognition.genruntimeconfig.cache
